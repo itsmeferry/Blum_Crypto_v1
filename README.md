@@ -40,7 +40,13 @@ Install Python: [Download Disini](https://www.python.org/downloads/)
        ![image](https://github.com/itsmeferry/Blum_Crypto_v1/assets/46418209/8ee8bb61-aa6e-4e26-949b-0e3b0a6c1182)
        
   5. Paste query_id di tgwebapp.txt
-  6. Pada Folder 
+  6. Pada Folder Blum_Crypto_v1 Click Kanan Open Terminal
+     ![image](https://github.com/itsmeferry/Blum_Crypto_v1/assets/46418209/98ec5c19-952f-470e-b862-c2e7865d77c1)
+
+  7. Ketik Perintah py blum.py
+     ![image](https://github.com/itsmeferry/Blum_Crypto_v1/assets/46418209/c8b74786-4b5f-4d6a-9cd2-4d18d74f300a)
+
+  8. Congrats Auto CLicker + Main Mini Game Sudah Selesai
 
 
 ## Features
