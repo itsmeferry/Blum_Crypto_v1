@@ -28,6 +28,6 @@ Install with python
 - Multi Account
 
 ## Screenshots
+![WhatsApp Image 2024-06-17 at 19 24 49_24934ce6](https://github.com/itsmeferry/Blum_Crypto_v1/assets/46418209/4ff1b17c-7da2-4be7-9149-baf0bc51a9a2)
 
-![App Screenshot](https://ibb.co.com/9YmXzKb)
 
