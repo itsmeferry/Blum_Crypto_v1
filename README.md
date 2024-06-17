@@ -14,15 +14,20 @@ Join Here: [Blum Bot](https://t.me/BlumCryptoBot/app?startapp=ref_1tUHerAIZL)
 
 Install Python: [Download Disini](https://www.python.org/downloads/)
 
-```bash
+
   1. Download Python 3.10+
-  2. Install Module (pip install requests colorama)
-  3. Buka Bot Blum di PC (Telegram Web / Desktop)
-  4. Ambil query_id
-  5. Caranya > inspek elemen > terus ke application > storage (session storage) > pilih telegram.blum.codes
-  6. Pilih __telegram_initparam > tgwebappdata ambil query_id=xxx (ambil semua) kecuali tgwebappnya
+    ![image](https://github.com/itsmeferry/Blum_Crypto_v1/assets/46418209/2c6b600d-be31-490c-b7fc-f20750f6d03b)
+  2. Install Module
+     - Open CMD
+     - Ketik "pip install requests colorama" (Tanpa Tanda Petik)
+     ![image](https://github.com/itsmeferry/Blum_Crypto_v1/assets/46418209/246b407c-7110-47aa-a507-924623dee9e5)
+
+  3. 
+  4. Buka Bot Blum di PC (Telegram Web / Desktop)
+  5. Ambil query_id
+  6. Caranya > inspek elemen > terus ke application > storage (session storage) > pilih telegram.blum.codes
+  7. Pilih __telegram_initparam > tgwebappdata ambil query_id=xxx (ambil semua) kecuali tgwebappnya
   5. Paste di tgwebapp.txt
-```
 
 
 ## Features
