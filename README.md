@@ -38,9 +38,9 @@ Install Python: [Download Disini](https://www.python.org/downloads/)
      - Masuk Ke Menu Application - Session Storage - _telegram_initParams
      - Copy query_id=********************************** (Ambil Semua Kecuali tgwebappnya)
        ![image](https://github.com/itsmeferry/Blum_Crypto_v1/assets/46418209/8ee8bb61-aa6e-4e26-949b-0e3b0a6c1182)
-
-  5. 
-  5. Paste di tgwebapp.txt
+       
+  5. Paste query_id di tgwebapp.txt
+  6. Pada Folder 
 
 
 ## Features
