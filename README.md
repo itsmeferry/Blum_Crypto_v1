@@ -46,7 +46,7 @@ Install Python: [Download Disini](https://www.python.org/downloads/)
   7. Ketik Perintah py blum.py
      ![image](https://github.com/itsmeferry/Blum_Crypto_v1/assets/46418209/c8b74786-4b5f-4d6a-9cd2-4d18d74f300a)
 
-  8. Congrats Auto CLicker + Main Mini Game Sudah Selesai
+  8. Congrats Auto Clicker + Main Mini Game Sudah Selesai
 
 
 ## Features
