@@ -29,5 +29,5 @@ Install with python
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co.com/BBJtKwp/Cuplikan-layar-2024-06-01-190624.png)
+![App Screenshot](https://ibb.co.com/9YmXzKb)
 
